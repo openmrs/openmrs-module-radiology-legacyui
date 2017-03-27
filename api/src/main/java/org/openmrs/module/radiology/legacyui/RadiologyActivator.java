@@ -10,7 +10,6 @@
 package org.openmrs.module.radiology.legacyui;
 
 import org.openmrs.module.BaseModuleActivator;
-import org.openmrs.module.radiology.legacyui.RadiologyActivator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
